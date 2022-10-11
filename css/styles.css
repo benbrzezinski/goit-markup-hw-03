@@ -43,7 +43,7 @@ h1 {
   background-color: var(--main-selection-color);
   cursor: pointer;
   color: #fff;
-  font-family: "Roboto";
+  font-family: inherit;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.88;
@@ -178,7 +178,7 @@ h1 {
 .buttons button {
   color: var(--main-text-color);
   background-color: #f5f4fa;
-  font-family: "Roboto";
+  font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.63;
